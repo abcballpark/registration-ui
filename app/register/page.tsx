@@ -22,7 +22,6 @@ import states from "states-us";
 
 import formSteps from "./steps";
 import formDefaults from "./defaults";
-import AddressSearch from "@/components/address-search";
 
 export default function Register() {
   const { data: session, status } = useSession();
