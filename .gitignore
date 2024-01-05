@@ -41,4 +41,8 @@ jspm_packages
 *.env
 .vercel/
 
+# Terraform
 terraform/.terraform/
+
+# Certs
+*.pem

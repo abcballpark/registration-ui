@@ -52,6 +52,8 @@ export default function Home() {
   };
 
   return (
-    <></>
+    <><p>Hello</p></>
   );
 }
+
+// Try this: https://kinderas.com/technology/implementing-federated-sign-out-when-using-next-auth-in-you-next-js-app
